@@ -2,7 +2,7 @@ import CodeEditor from './components/CodeEditor';
 
 const sampleProblem = {
   id: '1',
-  title: 'Sum Two Numbers',
+  title: 'Sum Two Number',
   description: 'Write a function that takes two numbers as input and returns their sum.',
   defaultCode: `function solution(input) {
   // input will be a string like "1,2"
